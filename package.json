@@ -1,0 +1,17 @@
+{
+  "name": "pixel-labs",
+  "version": "1.0.0",
+  "description": "psd to photoshop ",
+  "main": "index.html",
+  "repository": "https://github.com/neuralline/photoshop-to-html",
+  "homepage": "https://photoshop-to-html.netlify.com/",
+  "author": "neural line",
+  "license": "GPL-3.0",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "sass": "^1.17.0"
+  }
+}
